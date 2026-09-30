@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Rolagem suave quando clicar nos links do menu */
+html {
+  scroll-behavior: smooth;
+}
