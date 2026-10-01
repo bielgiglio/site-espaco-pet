@@ -30,7 +30,7 @@ export default function Navbar() {
 
         {/* Botão de Contato */}
         <a 
-          href="#contato" 
+          href="https://api.whatsapp.com/send/?phone=5521995030313&text&type=phone_number&app_absent=0" 
           className="bg-[#00B5B8] hover:bg-[#00999C] text-white px-5 py-2.5 rounded-full text-sm font-bold shadow-md shadow-cyan-100 transition-all hover:scale-105"
         >
           Fale Conosco
