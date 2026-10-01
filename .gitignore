@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Arquivos de sistema do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
