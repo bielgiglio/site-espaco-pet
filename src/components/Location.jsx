@@ -6,9 +6,9 @@ export default function Location() {
         <p className="text-slate-600 mb-8">Venha nos visitar ou traga seu pet para nos conhecer.</p>
         <div className="bg-white p-6 rounded-2xl border border-slate-100 shadow-sm max-w-md mx-auto">
           <p className="font-semibold text-slate-800">Endereço:</p>
-          <p className="text-slate-600 text-sm mt-1">Rua do Petshop, 123 - Centro</p>
+          <p className="text-slate-600 text-sm mt-1">Rua Fernando Henrique Assumpção, 247 - Eldorado</p>
           <p className="font-semibold text-slate-800 mt-4">Horário de Funcionamento:</p>
-          <p className="text-slate-600 text-sm mt-1">Segunda a Sábado: 08:00 às 18:00</p>
+          <p className="text-slate-600 text-sm mt-1">Terça a Sábado: 09:00 às 17:00</p>
         </div>
       </div>
     </section>

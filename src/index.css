@@ -1,6 +1,20 @@
 @import "tailwindcss";
 
-/* Rolagem suave quando clicar nos links do menu */
+@theme {
+  --color-pet-roxo: #874E9E;
+  --color-pet-roxo-dark: #622E79;
+  --color-pet-roxo-light: #F7EFFF;
+  --color-pet-ciano: #00B5B8;
+  --color-pet-ciano-dark: #00999C;
+  --color-pet-laranja: #F7941D;
+  --color-pet-laranja-light: #FFF5EB;
+}
+
 html {
   scroll-behavior: smooth;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #FAFAFC;
 }
