@@ -13,7 +13,7 @@ export default function Hero() {
         <div>
           <div className="inline-flex items-center gap-2 bg-[#F1E5F8] text-[#622E79] px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider mb-6">
             <Sparkles className="w-3.5 h-3.5 text-[#00B5B8]" />
-            Pet Shop • Clínica • Banho e Tosa
+            Pet Shop • Banho e Tosa
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-[#622E79] tracking-tight leading-[1.15]">

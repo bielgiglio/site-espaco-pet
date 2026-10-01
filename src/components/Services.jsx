@@ -192,7 +192,7 @@ export default function Services() {
         {/* Botão de Agendamento */}
         <div className="mt-12 text-center">
           <a
-            href="#contato"
+            href="#https://api.whatsapp.com/send/?phone=5521995030313&text&type=phone_number&app_absent=0"
             className="inline-flex items-center gap-2 bg-[#00B5B8] hover:bg-[#00999C] text-white px-8 py-3.5 rounded-full font-semibold shadow-md shadow-cyan-100 transition-all hover:scale-105"
           >
             <MessageCircle className="w-5 h-5" />
