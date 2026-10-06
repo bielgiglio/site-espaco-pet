@@ -19,6 +19,7 @@ export default function App() {
         <Location />
       </main>
       <Footer />
+      <Analytics />
     </div>
   );
 }
