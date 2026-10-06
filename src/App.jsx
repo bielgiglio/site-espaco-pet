@@ -5,6 +5,7 @@ import Services from './components/Services';
 import Gallery from './components/Gallery';
 import Location from './components/Location';
 import Footer from './components/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   return (
