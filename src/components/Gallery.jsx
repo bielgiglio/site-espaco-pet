@@ -1,32 +1,39 @@
+import pet1 from '../assets/galeria/pet1.jpg';
+import pet2 from '../assets/galeria/pet2.jpg';
+import pet3 from '../assets/galeria/pet3.jpg';
+import pet4 from '../assets/galeria/pet4.jpg';
+import pet5 from '../assets/galeria/pet5.jpg';
+import pet6 from '../assets/galeria/pet6.jpg';
+
 export default function Gallery() {
   const fotos = [
     {
-      url: "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=800&q=80",
+      url: pet1,
       legenda: "Banho relaxante e higienização completa",
       tag: "Banho"
     },
     {
-      url: "https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?auto=format&fit=crop&w=800&q=80",
+      url: pet2,
       legenda: "Tosa higiênica e corte na tesoura",
       tag: "Tosa"
     },
     {
-      url: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=800&q=80",
+      url: pet3,
       legenda: "Pós-banho com hidratação e laço",
       tag: "Estética"
     },
     {
-      url: "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?auto=format&fit=crop&w=800&q=80",
+      url: pet4,
       legenda: "Cuidado e paciência para filhotes",
       tag: "Cuidado"
     },
     {
-      url: "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&w=800&q=80",
+      url: pet5,
       legenda: "Tratamentos especiais e desembolo",
       tag: "Tratamento"
     },
     {
-      url: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80",
+      url: pet6,
       legenda: "Secagem e escovação sem estresse",
       tag: "Finalização"
     }
